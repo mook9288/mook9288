@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">🔭 Tech Stack</h3>
-<p align="center">
+<h3>🔭 Tech Stack</h3>
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
@@ -21,10 +21,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <p>
 
-<br />
-
-<h3 align="center">🌱 Currently Learning</h3>
-<p align="center">
+<h3>🌱 Currently Learning</h3>
+<p>
   <span><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
@@ -35,10 +33,8 @@ Here are some ideas to get you started:
 <p>
 
 <br />
-<br />
-<br />
 
-<h3 align="center">⚡ My github state</h3>
+<h3>⚡ My github state</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mook9288&hide=stars,contribs&show_icons=true&count_private=true&hide_border=true" alt="mook's GitHub stats" />
 <p>
