@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <br />
 
 <h3>⚡ My github state</h3>
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mook9288&hide=stars,contribs&show_icons=true&count_private=true&hide_border=true" alt="mook's GitHub stats" />
-<p>
+<p> -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mook9288&layout=compact&hide_border=true" alt="mook's Top Langs" />
 <p>
